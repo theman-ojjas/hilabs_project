@@ -1,5 +1,3 @@
----
-
 # HiLabs Hackathon 2025 – Free-Text Roster Email Parser
 
 ## 📌 Problem Statement
