@@ -21,8 +21,8 @@ The tool:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/theman-ojjas/hilabs_project.git
+cd hilabs_project
 ```
 
 ### 2. Install Requirements
